@@ -2,7 +2,7 @@
 
 tpsi MCF-4T-LAWSON &amp; Olympiades de Rémi Christophe Raphaël
 
-# Easy go on
+# Easy go on To contribute
 
 **git clone https://github.com/ttnice/Drone**  
 **pushd Drone**
@@ -13,7 +13,7 @@ __git add *__
 **git pull**  
 
 
-# To contribute command line
+# Command line more detailed
 
 **git clone https://github.com/ttnice/Drone**  
 go to your created folder /Drone/  
