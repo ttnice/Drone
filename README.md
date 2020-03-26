@@ -5,7 +5,7 @@
 # Easy go on To contribute
 
 **git clone https://github.com/ttnice/Drone**  
-**pushd Drone**
+**pushd Drone**  
 __git add *__  
 **git commit -m "commit description"**  
 **git push**  
